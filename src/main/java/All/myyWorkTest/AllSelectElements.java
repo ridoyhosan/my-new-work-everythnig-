@@ -29,6 +29,7 @@ public class AllSelectElements extends ToOpenNClose{
 	
 	
 	public static void elementsloop() throws InterruptedException {
+		System.out.println("what's up");
 		 //WebElement mainMen=dr.findElement(By.xpath("/html/body/form/div[3]/div[3]/div/div/nav[2]/ul[2]/li[1]/button"));
 
 		for(int i=1;i<=5;i++) {
